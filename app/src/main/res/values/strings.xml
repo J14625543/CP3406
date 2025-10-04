@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Personal Finance Tracker</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_budget">Budget</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Dashboard -->
+    <string name="total_balance">Total Balance</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="monthly_expenses">Monthly Expenses</string>
+    <string name="savings_rate">Savings Rate</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="budget_status">Budget Status</string>
+    <string name="upcoming_bills">Upcoming Bills</string>
+    
+    <!-- Transactions -->
+    <string name="add_income">Add Income</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="transaction_type">Transaction Type</string>
+    <string name="amount">Amount</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Categories -->
+    <string name="category_food">Food</string>
+    <string name="category_transport">Transport</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_healthcare">Healthcare</string>
+    <string name="category_education">Education</string>
+    <string name="category_utilities">Utilities</string>
+    <string name="category_rent">Rent</string>
+    <string name="category_salary">Salary</string>
+    <string name="category_bonus">Bonus</string>
+    <string name="category_investment">Investment</string>
+    <string name="category_other">Other</string>
+    
+    <!-- Budget -->
+    <string name="monthly_budget">Monthly Budget</string>
+    <string name="budget_limit">Budget Limit</string>
+    <string name="spent_amount">Spent</string>
+    <string name="remaining_budget">Remaining</string>
+    <string name="budget_exceeded">Budget Exceeded</string>
+    <string name="budget_on_track">On Track</string>
+    <string name="set_budget">Set Budget</string>
+    
+    <!-- Goals -->
+    <string name="savings_goals">Savings Goals</string>
+    <string name="goal_name">Goal Name</string>
+    <string name="target_amount">Target Amount</string>
+    <string name="current_amount">Current Amount</string>
+    <string name="target_date">Target Date</string>
+    <string name="progress">Progress</string>
+    <string name="add_goal">Add Goal</string>
+    <string name="edit_goal">Edit Goal</string>
+    <string name="delete_goal">Delete Goal</string>
+    
+    <!-- Analytics -->
+    <string name="spending_analysis">Spending Analysis</string>
+    <string name="category_breakdown">Category Breakdown</string>
+    <string name="monthly_trend">Monthly Trend</string>
+    <string name="savings_trend">Savings Trend</string>
+    <string name="recommendations">Recommendations</string>
+    
+    <!-- Notifications -->
+    <string name="bill_reminder">Bill Reminder</string>
+    <string name="budget_alert">Budget Alert</string>
+    <string name="goal_reminder">Goal Reminder</string>
+    
+    <!-- Common -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+    <string name="success">Success</string>
+    <string name="loading">Loading...</string>
+    <string name="no_data">No Data</string>
+</resources>
